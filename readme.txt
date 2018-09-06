@@ -3,4 +3,4 @@
  add1
  add2
  add3
- conflict test in branch master
+ conflict test
