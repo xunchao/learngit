@@ -4,4 +4,3 @@
  add2
  add3
  conflict test
- no fast forword
